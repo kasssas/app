@@ -19,6 +19,7 @@ Read the medical record written by doctor
 Find out the medicines that the doctor prescribed for him
 Find out the necessary tests that the doctor requested from him
 we have made 10 classes that describe our project in names
+
 1)- Person 2)- Doctor 3)- Patient
 4)- MedicalCenter
 5)- Billing
